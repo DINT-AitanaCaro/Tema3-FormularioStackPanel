@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Tema3_FormularioStackPanel"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800" MinWidth="400" MaxHeight="400">
     <StackPanel>
         <StackPanel Margin="20" Height="60">
             <StackPanel.Background>
